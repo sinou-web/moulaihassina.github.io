@@ -44,8 +44,8 @@
         <div class="container">
                 <div class="col-lg-4 col-xs-12 align-left info">
                     <h1>Moulaï Hassina Safaa</h1>
-                    <p id="desc">Described as calm and eager learner, solving problems is a passion of mine as much as mastering tools and programming languages. I'm looking forward to gather more knownlege about computer science specialy Artifical intelligence, Computer networks and Optimization.</p>
-                    <a id="dl" download="MoulaiHassinaResume.pdf" href="https://sinou-web.github.io/moulaihassina.github.io/MoulaiHassinaResume.pdf">
+                    <p id="desc">Passionnée par l'informatique en particulier la résolution de problèmes, je cherche continuellement  à m'ameliorer en manipulant plusieurs langages de programmation et outils informatiques ainsi qu'en maitrisant les fondements théoriques de l'informatique, cela me permet de proposer des idées innovantes et developper des applications nécessaires au quoditien.</p>
+                    <a id="dl" download="MoulaiHassinaResumefr.pdf" href="https://sinou-web.github.io/moulaihassina.github.io/MoulaiHassinaResumefr.pdf">
                      <h5><img class="in-pic" src="assets/img/dl.png" alt="download"/> Download Resume</h5>
                     </a>
                 </div>
@@ -55,7 +55,7 @@
                 <div class="col-lg-4 col-xs-12 align-right info">
                     <h5>safaamoulaihassina@gmail.com <img class="in-pic" src="assets/img/mail.png" alt="email"/></h5>
                     <h5>+213 551080133 <img class="in-pic" src="assets/img/phone-call.png" alt="tel"/></h5>
-                    <h5>Algiers, Algeria <img class="in-pic" src="assets/img/locate.png" alt="location"/></h5>
+                    <h5>Algier, Algerie <img class="in-pic" src="assets/img/locate.png" alt="location"/></h5>
                     <a target="_blank" href="https://github.com/moulaihassina">
                      <h5>github.com/moulaihassina <img class="in-pic" src="assets/img/github.png" alt="github"/></h5>
                     </a>
@@ -75,47 +75,47 @@
                     <div class="activity">
                         <div class="col-lg-6 col-xs-6 align-left column-small info">09/2017 - 07/2019</div>
                         <div class="col-lg-6 col-xs-6 align-right column-small info" style="opacity: 0">Algiers</div>
-                        <h3 class="title">Masters - Intelligent Computer Systems</h3> 
-                        <h4 class="institution">University of Science and Technology Houari Boumediene, Algiers</h4> 
-                        <p>Machine Learning<span class="pipe"> |</span>
-                              Complexity<span class="pipe"> |</span>
-                           
-                            Operating systems<span class="pipe"> |</span>
-                        Natural Language Processing<span class="pipe"> |</span>
+                        <h3 class="title">Masters - Systèmes Informatiques Intelligents</h3> 
+                        <h4 class="institution">Université des Sciences et Technologies Houari Boumediene, Alger</h4> 
+                        <p>Apprentissage Automatique<span class="pipe"> |</span>
+                            Complexité<span class="pipe"> |</span>
+                       
+                            Système d'exploitation<span class="pipe"> |</span>
+                            Apprentissage Automatique<span class="pipe"> |</span>
+                        Traitement Automatique du Language<span class="pipe"> |</span>
                         Data Mining<span class="pipe"> |</span>
-                        Information Retrieval<span class="pipe"> |</span>
-                        Knowledge representation and reasoning<span class="pipe"> |</span> 
-                        Constraint programming<span class="pipe"> |</span> 
+                        Recherche d'information<span class="pipe"> |</span>
+                        Répresentation des connaissances et raisonnements<span class="pipe"> |</span> 
+                        Programmation par contrainte<span class="pipe"> |</span> 
                         e-Commerce &amp; Web services<span class="pipe"> |</span> 
-                        Advanced Databases(Object oriented).</p>
+                        Base de données avancée(sql3).</p>
                     </div>
                     <div class="activity">
                         <div class="col-lg-6 col-xs-6 align-left column-small info">09/2014 - 06/2017</div>
                         <div class="col-lg-6 col-xs-6 align-right column-small info" style="opacity: 0">Algiers</div>
-                        <h3 class="title">Bachelor - Computer science</h3> 
-                        <h4 class="institution">University of Science and Technology Houari Boumediene, Algiers</h4> 
-                        <p>Mathematics<span class="pipe"> |</span>
-                        Algorithmics<span class="pipe"> |</span>
-                        Operational research<span class="pipe"> |</span>
-                        Computer architecture<span class="pipe"> |</span>
-                        Databases<span class="pipe"> |</span>
-                         Network<span class="pipe"> |</span>
-                        Programming and Web development<span class="pipe"> |</span>
-                        Physics<span class="pipe"> |</span>
-                        Analog electronic.</p>
+                        <h3 class="title">Licence - Informatique academique</h3> 
+                        <h4 class="institution">Université des Sciences et Technologies Houari Boumediene, Alger</h4> 
+                        <p>Mathematique<span class="pipe"> |</span>
+                        Algorithmique et Structure de données<span class="pipe"> |</span>
+                        Recherche operationnelle (théorie des graphes)<span class="pipe"> |</span>
+                        Architecture des ordinateurs<span class="pipe"> |</span>
+                        Base de données<span class="pipe"> |</span>
+                        Développement web<span class="pipe"> |</span>
+                        Physique<span class="pipe"> |</span>
+                        Electricité.</p>
                     </div>
                     <div class="activity">
                         <div class="col-lg-6 col-xs-6 align-left column-small info">07/2014</div>
-                        <div class="col-lg-6 col-xs-6 align-right column-small info" style="opacity: 0">Algiers</div>
-                        <h3 class="title">Scientific Baccalaureate</h3> 
-                        <h4 class="institution">El Seddik Abdellah High School, Algiers</h4> 
-                        <p>Mathematics<span class="pipe"> |</span>
-                        Physics<span class="pipe"> |</span>
-                        Chemistry<span class="pipe"> |</span>
-                        Natural science<span class="pipe"> |</span>
-                        Foreign languages(Fr+En)<span class="pipe"> |</span>
-                        Philosophy<span class="pipe"> |</span> 
-                        History and geography.</p>
+                        <div class="col-lg-6 col-xs-6 align-right column-small info" style="opacity: 0">Alger</div>
+                        <h3 class="title">Baccalauréat scientifique</h3> 
+                        <h4 class="institution">Lycée El Seddik Abdellah, Alger</h4> 
+                        <p>Mathématique<span class="pipe"> |</span>
+                        Physique<span class="pipe"> |</span>
+                        Chimie<span class="pipe"> |</span>
+                        Science naturelle<span class="pipe"> |</span>
+                        Langues etrangères(Fr+En)<span class="pipe"> |</span>
+                        Philosophie<span class="pipe"> |</span> 
+                        Histoire et géographie.</p>
                     </div>
                 </div>
 
@@ -124,48 +124,48 @@
                
 
               <div class="activity-type">
-                    <h2 class="type">Work experience</h2> 
+                    <h2 class="type">Experience professionnelle</h2> 
                    <div class="activity">
                         <div class="col-lg-6 col-xs-6 align-left column-small info">06/2016 - 07/2017</div>
-                        <div class="col-lg-6 col-xs-6 align-right column-small info">Algiers</div>
-                        <h3 class="title">Call Center Operator (summer job)</h3> 
+                        <div class="col-lg-6 col-xs-6 align-right column-small info">Alger</div>
+                        <h3 class="title">Téléoperatrice(summer job)</h3> 
                       <!--  <a target="_blank" href="https://esightmonitoring.nl/">-->
                         <h4 class="institution">SCI PIERRE EPARGNE</h4>
                          <ul class="tasks">
-                            <li><span>.</span> Calling Potential Customers.</li>
-                            <li><span>.</span> Developed statistics over people's savings preferences.</li>
-                            <li><span>.</span> Convincing Customers to put their savings into Pierre Epargne company.</li>
+                            <li><span>.</span> Appeler des clients potentiels.</li>
+                            <li><span>.</span> Effectuer des statistiques sur les préferences concernant les épargnes des français.</li>
+                            <li><span>.</span> Convaincre des clients de faire le pas et d'investir chez Pierre Epargne.</li>
                         </ul>
                     </div>
                       <div class="activity">
                         <div class="col-lg-6 col-xs-6 align-left column-small info">11/2018 - 07/2019</div>
-                        <div class="col-lg-6 col-xs-6 align-right column-small info">Algiers</div>
-                        <h3 class="title">Intern, Master's Graduation Project </h3> 
+                        <div class="col-lg-6 col-xs-6 align-right column-small info">Alger</div>
+                        <h3 class="title">Projet interne de fin d'études de MASTER</h3> 
                         <a target="_blank" href="https://lria.usthb.dz/node/10">
                         <h4 class="institution">IADM, Computer Science Dprt./USTHB</h4> 
                         </a>
                         <ul class="tasks">
-                            <li><span>.</span> Created a simulator for different environments (complex, simple, semi-complex).</li>
-                             <li><span>.</span> Created Multi-robots system to look for targets in unkown environments</li>
-                            <li><span>.</span> Implemented strategies for avoiding obstacles in unknown environments.</li>
-                            <li><span>.</span> Implemented Panification strategies based on swarm intelligence to look for targets in unknown environments.</li>
-                            <li><span>.</span> Visulazation in real time of the search for targets in unknown environment.</li>
-                            <li><span>.</span> Implemented a startegy to fix and optimize parameters of planification algorithms.</li>
+                            <li><span>.</span> Création d'un simulateur d'environements de robots (complexe, simple, semi-complexe).</li>
+                             <li><span>.</span> Adapatation d'un système multi-robots pour la recherche de cibles dans des environments inconnus</li>
+                            <li><span>.</span> Implementation des strategies d'évitéments d'obstacles.</li>
+                            <li><span>.</span> Implemented des strategies de planification des actions des robots inspirées par l'intelligence en essaim.</li>
+                            <li><span>.</span> Visualisation en temps réel de la recherche de cibles avec le simulateur.</li>
+                            <li><span>.</span> Implementation d'une strategie de réglage de parametres des algorithmes inspirées de l'intelligence en essaim implementés.</li>
                         </ul>
                         <p class="technologies"><span class="keywords">Technologies:</span>Python, numpy, Matplotlib, PIL, Java, Javafx, Jfoenix, Css.</p>
                     </div>
                       <div class="activity">
                         <div class="col-lg-6 col-xs-6 align-left column-small info">11/2016 - 06/2017</div>
-                        <div class="col-lg-6 col-xs-6 align-right column-small info">Algiers</div>
-                        <h3 class="title">Intern, Licence's Graduation Project </h3> 
+                        <div class="col-lg-6 col-xs-6 align-right column-small info">Alger</div>
+                        <h3 class="title">Projet interne de fin d'études de LICENCE en informatique </h3> 
                         <a target="_blank" href="http://www.riima.usthb.dz/?q=node/169">
                         <h4 class="institution">Riima, Computer Science Dprt./USTHB</h4> 
                         </a>
                         <ul class="tasks">
-                            <li><span>.</span> Created a board emulator using the depth of images.</li>
-                            <li><span>.</span> Created Air drawing application.</li>
-                            <li><span>.</span> Extraction of information from images.</li>
-                            <li><span>.</span> Developed some strategies allowing to Draw and Erase drawings.</li>
+                            <li><span>.</span> Création d'un émulateur de tableau en temps réel.</li>
+                            <li><span>.</span> Développement d'une application de dessin en air (air drawing).</li>
+                            <li><span>.</span> Extraction d'information des images (profondeur...).</li>
+                            <li><span>.</span> Développement de fonctionnalités d'effacer et dessiner selon le besoin.</li>
                           </ul>
                         <p class="technologies"><span class="keywords">Technologies:</span> C++, Kinect tools, Opencv, OpenNI.</p>
                     </div>
@@ -176,7 +176,7 @@
 
 
                 <div class="activity-type">
-                    <h2 class="type">Languages</h2> 
+                    <h2 class="type">Langages</h2> 
                     <div class="activity">
                         <div class="col-lg-3 align-left column-small lang-row">
                             <span class="lang">Arabic</span>(native)
@@ -185,16 +185,16 @@
                             <span class="lang">French</span>(bilingue)
                         </div>
                         <div class="col-lg-3 align-left column-small lang-row">
-                            <span class="lang">English</span>(advanced)
+                            <span class="lang">English</span>(advancé)
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-6 col-xs-12 align-left column">
                 <div class="activity-type">
-                    <h2 class="type">Skills &amp; competences</h2> 
+                    <h2 class="type">Compétences &amp; techniques</h2> 
                     <div class="activity">
-                        <div class="skill-type">Programming Language</div>
+                        <div class="skill-type">Langages de programmation</div>
                         <ul>
                             <li class="main">Python, Perl, Matlab, </li>
                             <li class="main">Java, </li>
@@ -203,27 +203,27 @@
                             <li class="secondary">Javascript, </li>
                             <!--<li class="secondary">PHP</li>-->
                         </ul>
-                        <div class="skill-type">Data Science</div>
+                        <div class="skill-type">Science des données</div>
                         <ul>
-                            <li class="skill-type">Machine Learning</li>
+                            <li class="skill-type">Apprentissage Automatique</li>
                             <ul>
                                <li class="main">Matlab toolbox ,</li>
                                 <li class="secondary">TensorFlow.</li>
                             </ul>
-                            <li class="skill-type">Data Manipulation</li>
+                            <li class="skill-type">Manipulation des données</li>
                             <ul>
-                                <li class="main">Data Cleansing, </li>
-                                <li class="main">Data Scraping, </li>
-                                <li class="secondary">Data Visualization, </li>
+                                <li class="main">Nettoyages des données, </li>
+                                <li class="main">Extraction des données, </li>
+                                <li class="secondary">Visualisation des données, </li>
                                 <li class="main">Numpy.</li>
                                 <!--<li class="main">Pandas</li>-->
                             </ul>
                             
                         </ul>
-                        <div class="skill-type">Natural Language Processing</div>
+                        <div class="skill-type">Traitement automatique des langages</div>
                         <ul>
-                            <li class="main">Text Classification, </li>
-                            <li class="main">Corpus Building, </li>
+                            <li class="main">Classification de textes, </li>
+                            <li class="main">Construction d'un Corpus, </li>
                             <li class="main">NLTK</li>
                         </ul>
                         <div class="skill-type">Backend</div>
@@ -236,7 +236,7 @@
                             <li class="main">REST API, </li>
                             <li class="secondary">Yii2</li>-->
                         </ul>
-                        <div class="skill-type">Databases &amp; Storage</div>
+                        <div class="skill-type">Base de  données &amp; sauvegardes</div>
                         <ul>
                            
                             <li class="main">MySQL, </li>
@@ -253,12 +253,12 @@
                             <li class="main">Materialize, </li>-->
                             <li class="secondary">Bootstrap</li>
                         </ul>
-                        <div class="skill-type">Tools</div>
+                        <div class="skill-type">Autre Outils</div>
                         <ul>
                             <li class="main">Git, </li>
-                            <li classe="main">Kinect(computer vision), </li>
+                            <li classe="main">Kinect(Vison artificielle), </li>
                             <li classe="main">Cisco (networks), </li>
-                            <li class="main">Jade, Jason (Agent-oriented Programming)</li>
+                            <li class="main">Jade, Jason (programmation orienté agents)</li>
                             <!--<li class="main">Bitbucket,</li>
                             <li class="main">Heroku, </li>
                             <li class="secondary">Firebase</li>-->
@@ -267,10 +267,10 @@
                 </div>
             
                 <div class="activity-type">
-                    <h2 class="type">Extracurricular</h2> 
+                    <h2 class="type">Activités Extra-Scolaire</h2> 
                     <div class="activity">
                         <div class="col-lg-6 col-xs-6 align-left column-small info">06/2018</div>
-                        <div class="col-lg-6 col-xs-6 align-right column-small info">Algiers</div>
+                        <div class="col-lg-6 col-xs-6 align-right column-small info">Alger</div>
                         <h3 class="title">Leapfrog Hackathon</h3> 
                         <a target="_blank" href="https://cse.club/leapfrog-hack">
                         <h4 class="institution">DarTech- Dounia Park, Algiers</h4> 
@@ -279,10 +279,10 @@
                     
                     <div class="activity">
                         <div class="col-lg-6 col-xs-6 align-left column-small info">05/2017</div>
-                        <div class="col-lg-6 col-xs-6 align-right column-small info">Algiers</div>
-                        <h3 class="title">Competition for the best final project</h3> 
+                        <div class="col-lg-6 col-xs-6 align-right column-small info">Alger</div>
+                        <h3 class="title">Competition du meilleur projet</h3> 
                         <a target="_blank" href="https://www.usthb.dz/fr/actu/430">
-                        <h4 class="institution">University of Science and Technology Houari Boumediene</h4> 
+                        <h4 class="institution">Université des Sciences et Technologies Houari Boumediene, Alger</h4> 
                         </a>
                     </div>
                     <!--
